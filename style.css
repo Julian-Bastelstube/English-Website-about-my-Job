@@ -1,0 +1,40 @@
+body {
+    background-color: #f0dbae;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-attachment: scroll;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #000000;
+    background-color: #f0dbae;
+}
+
+h2 {
+    text-align: left;
+    font-family: Arial, sans-serif;
+    color: #000000;
+    background-color: #f0dbae;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    background-color: #f0dbae;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
